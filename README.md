@@ -24,7 +24,7 @@ Highly adaptable and collaborative professional with a strong focus on achieving
   - Involved in the full recruitment cycle, from candidate screening to interviews.
   - Provided training and mentorship to interns and junior team members, enhancing their skills and performance.
 
-  Technologies: Golang, Clickhouse, PostgreSQL, Kafka, S3, Memcached, Prometheus, Gafana
+  Technologies: Golang, Clickhouse, PostgreSQL, Kafka, S3, Memcached, Prometheus, Grafana
 
 - **Software Developer at Yandex** (Nov 2020 - Feb 2023)
   - Accelerated release cycles and enhanced reliability by implementing a suite of end-to-end (E2E) tests, complementing existing unit tests to achieve 95% code coverage and reducing release testing duration by approximately 50%.
@@ -33,7 +33,7 @@ Highly adaptable and collaborative professional with a strong focus on achieving
   - Involved in the full recruitment cycle, from candidate screening to interviews.
   - Provided training and mentorship to interns and junior team members, enhancing their skills and performance.
 
-  Technologies: Golang, PostgreSQL, Redis, Kafka, S3, Prometheus, Gafana
+  Technologies: Golang, PostgreSQL, Redis, Kafka, S3, Prometheus, Grafana
 
 ### 🤖 Education 
 
